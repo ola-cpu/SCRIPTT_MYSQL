@@ -5,6 +5,9 @@ echo "************Correction socket '/var/run/mysqld.sock' (2) par EMPIRE_OBA***
 
 sudo su 
 
+exit
+
+
 ls /var/run/my*
 
 mkdir /var/run/mysqld

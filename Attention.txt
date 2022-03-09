@@ -1,0 +1,19 @@
+ETAPE 1 
+
+--donne des droit au fichier bash en linge de commande 
+
+ chmod +x nomFichier.sh
+
+ETAPE 2 
+--excution 
+
+ ./NonFichier.sh
+
+
+
+*** commence par le fichier "mysql.sh" ****
+
+***Apres instalation faire les commande suivant ***
+
+ mysql 
+ 
